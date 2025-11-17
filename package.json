@@ -1,0 +1,24 @@
+{
+  "name": "secure_fgb_api",
+  "version": "1.0.0",
+  "description": "API for serving fgb files with control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MFuglsang/secure_fgb_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MFuglsang/secure_fgb_api/issues"
+  },
+  "homepage": "https://github.com/MFuglsang/secure_fgb_api#readme",
+  "dependencies": {
+    "flatgeobuf": "^4.3.1",
+    "ol": "^10.7.0"
+  }
+}

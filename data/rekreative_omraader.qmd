@@ -1,0 +1,30 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.34.4-Prizren">
+  <identifier>urn:dmp:ds:rekreative-omraader-geodanmark</identifier>
+  <parentidentifier></parentidentifier>
+  <language>DA</language>
+  <type></type>
+  <title>Rekreative områder, GeoDanmark</title>
+  <abstract>Områder, der anvendes til rekreative formål og som har offentlig adgang og som er minimum 2500 m2.
+Rekreative områder er parker, grønne områder, kolonihaver, campingpladser, forlystelsesparker, dyreparker, zoologiske- eller botaniske haver, frilandsmuseer, skaterparker, rekreative klimatilpasningsanlæg og lignende.
+For datalag findes der kun de generelle attributter og det er derfor ikke muligt at skelne mellem de nævnte typer af rekreative områder ud fra datasættet. Et ortofoto som baggrund vil dog være en stor hjælp til tolkning.
+For yderligere og detaljere information om rekreative arealer henvises til specifikationen på GeoDanmarks hjemmeside.</abstract>
+  <links/>
+  <dates/>
+  <fees></fees>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent/>
+</qgis>
